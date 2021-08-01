@@ -1,1 +1,1 @@
-# ehv-transmission-line
+Simulated a T-Model EHV Transmission line using Simulink considering the line parameters and compensation banks, observing the voltage waveforms and calculating the performance, feasibility and regulation of the transmission line.
